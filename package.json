@@ -1,0 +1,24 @@
+{
+  "author": "Hagg Brian",
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.2",
+    "mongoose": "^5.4.21",
+    "mongoose-timestamp": "^0.6.0",
+    "nodemailer": "^5.1.1",
+    "nodemon": "^1.18.10"
+  },
+  "description": "api-users-crud",
+  "license": "HaggertyBrian",
+  "main": "api.js",
+  "name": "apinode",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon api.js"
+  },
+  "version": "1.0.0"
+}
