@@ -7,7 +7,7 @@
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "mongodb": "^3.2.2",
-    "mongoose": "^5.4.21",
+    "mongoose": "^5.4.22",
     "mongoose-timestamp": "^0.6.0",
     "nodemailer": "^5.1.1",
     "nodemon": "^1.18.10"
