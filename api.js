@@ -4,10 +4,10 @@
 
 /**** Listening on port ****/
 const port = 8000;
-const ip = "localhost";
+const ip = "192.168.1.39";
 
 /**** MongoDB URL ****/
-const mongoDB = 'mongodb://127.0.0.1:27017/Technique';
+const mongoDB = 'mongodb://omgprod:Babito91@ds213615.mlab.com:13615/babito';
 
 /**** Const & Require ****/
 const cors = require('cors');
