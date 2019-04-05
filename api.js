@@ -52,7 +52,7 @@ app.use(function timeLog(req, res, next) {
 
 /**** TEST To render with API ****/
 app.get('/', (req, res) => {
-    res.render('index');
+    res.render('game');
 });
 
 /**** CREATE NEW ROOMS ****/
